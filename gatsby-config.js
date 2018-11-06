@@ -1,6 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Elliot Betancourt',
+    description: 'The home on the web of Elliot Betancourt, freelance web developer',
+    tagLine: 'Act without doing; work without effort',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -25,8 +27,13 @@ module.exports = {
         icon: 'src/images/gatsby-icon.png', // This path is relative to the root of the site.
       },
     },
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.app/offline
-    // 'gatsby-plugin-offline',
+    'gatsby-plugin-offline',
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/src/posts`,
+        name: 'posts',
+      }
+    }
   ],
 }
