@@ -5,6 +5,7 @@ module.exports = {
     tagLine: 'Act without doing; work without effort',
   },
   plugins: [
+    'gatsby-plugin-sass',
     'gatsby-plugin-react-helmet',
     {
       resolve: `gatsby-source-filesystem`,

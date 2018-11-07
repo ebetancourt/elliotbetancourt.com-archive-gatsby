@@ -1,22 +1,12 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-import gatsbyLogo from '../images/gatsby-icon.png';
+import logo from '../images/logo.svg';
+import styles from './header.module.scss';
 
 const Header = ({ siteTitle }) => (
-  <div
-    style={{
-      background: 'rebeccapurple',
-      marginBottom: '1.45rem',
-    }}
-  >
-    <div
-      style={{
-        margin: '0 auto',
-        maxWidth: 960,
-        padding: '1.45rem 1.0875rem',
-      }}
-    >
+  <div className={styles.headerWrapper}>
+    <div className={styles.headerContainer}>
       <h1 style={{ margin: 0 }}>
         <Link
           to="/"
@@ -26,8 +16,8 @@ const Header = ({ siteTitle }) => (
           }}
         >
           <img style={{
-            width: "100px",
-          }} src={gatsbyLogo} alt="gatsby logo" />
+            width: "150px",
+          }} src={logo} alt="logo" />
         </Link>
       </h1>
     </div>

@@ -1,6 +1,8 @@
 import React from 'react'
 import { StaticQuery, graphql, Link } from 'gatsby'
 
+import styles from './archive.module.scss';
+
 const POST_ARCHIVE_QUERY = graphql`
       query BlogPostArchive {
         allMarkdownRemark(limit:5, sort: {
@@ -26,7 +28,7 @@ const Archive = ({ children }) => (
     render={({allMarkdownRemark}) => (
       <aside>
         <h3>Archive</h3>
-        <ul>
+        <ul className={styles.archiveList}>
           {allMarkdownRemark.edges.map(edge => (
             <li key={edge.node.frontmatter.slug}>
               <Link to={`posts${edge.node.frontmatter.slug}`}>
