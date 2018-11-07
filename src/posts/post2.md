@@ -1,15 +1,16 @@
---- 
-slug: "/second-post"
-title: "Our Second Post"
-date: "2018-11-07"
 ---
-# Second Post
+title: Our Second Post
+slug: /second-post
+date: '2018-11-07'
+posttype: post
+---
+## Second Post
 
 Leggings knausgaard street art disrupt, asymmetrical photo booth organic dreamcatcher kale chips skateboard actually. Leggings vice viral, everyday carry hexagon polaroid banh mi jean shorts XOXO. Direct trade stumptown yuccie, drinking vinegar pok pok occupy hell of keytar PBR&B listicle poke twee migas chillwave af. Pork belly marfa raw denim, sustainable poke kinfolk artisan migas meditation try-hard humblebrag direct trade trust fund. Bespoke vexillologist hella, iceland chartreuse man braid slow-carb stumptown plaid fingerstache listicle hashtag squid bitters.
 
 Put a bird on it freegan intelligentsia thundercats, godard locavore hashtag pop-up. Twee affogato gentrify la croix tousled. Farm-to-table stumptown wayfarers raw denim ennui. Heirloom sustainable viral swag pop-up literally street art seitan. Hexagon forage actually beard yr photo booth next level pickled PBR&B poutine.
 
-# Another Heading
+## Another Heading
 
 Flexitarian migas hella tilde tousled neutra. Crucifix pop-up portland vegan. Affogato crucifix helvetica typewriter farm-to-table kickstarter, tilde tumblr unicorn brunch readymade hella. Roof party church-key vice, squid narwhal semiotics small batch man braid beard freegan. Tote bag gochujang intelligentsia, cliche VHS chicharrones woke taxidermy polaroid. Brunch cliche +1 polaroid 8-bit literally microdosing. Tofu flannel gastropub man braid, kinfolk chia tousled tilde cold-pressed migas.
 
