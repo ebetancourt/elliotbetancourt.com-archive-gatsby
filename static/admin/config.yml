@@ -1,0 +1,20 @@
+backend:
+  name: github
+  branch: master
+  repo: ebetancourt/elliotbetancourt.com
+
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - name: 'posts'
+    label: 'Posts'
+    folder: 'src/posts'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - { label: 'Title Member', name: 'title', widget: 'string' }
+      - { label: 'Slug', name: 'slug', widget: 'string' }
+      - { label: 'Date', name: 'date', widget: 'date', format: "YYYY-MM-DD"}
+      - { label: 'Post Type', name: 'posttype', widget: 'select', options: ['photo', 'code', 'video', 'quote', 'post', 'quip'], default: "post"}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
