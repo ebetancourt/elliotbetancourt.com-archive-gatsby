@@ -14,6 +14,7 @@ const LISTING_QUERY = graphql`query BlogPostListing {
         node {
           id
           excerpt
+          timeToRead
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             title
@@ -36,7 +37,7 @@ const Listing = () => (
                     </Link>
                     <h3 className={styles.postLetter}>{node.frontmatter.title.slice(0, 1)}</h3>
                     <p className={styles.postMeta}>
-                        {node.frontmatter.date}
+                        {node.timeToRead} Min to Read&nbsp;&nbsp;/&nbsp;&nbsp;By: Elliot Betancourt&nbsp;&nbsp;/&nbsp;&nbsp;{node.frontmatter.date}
                     </p>
                     <p>{node.excerpt}</p>
                     <Link to={`/posts${node.frontmatter.slug}`} className={styles.readMoreLink}>Read More...</Link>
