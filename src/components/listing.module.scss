@@ -18,6 +18,11 @@
     p {
         font-size: 1rem;
     }
+
+    .postMeta {
+        font-size: .8125rem;
+        color: #888888;
+    }
 }
 
 .postLetter {
@@ -26,9 +31,9 @@
     color: rgba(0,0,0,.07);
     z-index: 1;
     position: absolute;
-    -webkit-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -73%);
+    -ms-transform: translate(-50%, -73%);
+    transform: translate(-50%, -73%);
     user-select: none;
     pointer-events: none;
     text-transform: uppercase;
