@@ -34,6 +34,7 @@ const Listing = () => (
                     <Link to={`/posts${node.frontmatter.slug}`}>
                         <h2>{node.frontmatter.title}</h2>
                     </Link>
+                    <h3 className={styles.postLetter}>{node.frontmatter.title.slice(0, 1)}</h3>
                     <p>{node.frontmatter.date}</p>
                     <p>{node.excerpt}</p>
                     <Link to={`/posts${node.frontmatter.slug}`} className={styles.readMoreLink}>Read More...</Link>

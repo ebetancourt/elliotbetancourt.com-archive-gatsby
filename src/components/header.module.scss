@@ -1,13 +1,21 @@
 .headerWrapper {
     background: #c62641;
     margin-bottom: 0;
+    position: fixed;
+    z-index: 10;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
 }
 
 .headerContainer {
     margin: 0 auto;
-    max-width: 960px;
+    max-width: 1170px;
     padding: 1rem;
-    img {
+    padding-top: 2rem;
+    h3 {
+        font-size: 1.625rem;
         margin-bottom: 0;
     }
 }

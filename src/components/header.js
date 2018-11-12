@@ -15,9 +15,7 @@ const Header = ({ siteTitle }) => (
             textDecoration: 'none',
           }}
         >
-          <img style={{
-            width: "150px",
-          }} src={logo} alt="logo" />
+<h3>elliot betancourt</h3>
         </Link>
       </h1>
     </div>
