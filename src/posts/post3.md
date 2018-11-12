@@ -1,6 +1,6 @@
 --- 
 slug: "/third-post"
-title: "Our Third Post"
+title: "Are you suggesting that coconuts migrate?"
 date: "2018-11-08"
 ---
 # Third Post

@@ -1,12 +1,10 @@
 ---
-title: Our First Post
+title: Knights, I bid you welcome to your new home
 slug: /first-post
 date: '2018-11-06'
 posttype: post
 draft: false
 ---
-
-## Second Post
 
 Leggings knausgaard street art disrupt, asymmetrical photo booth organic dreamcatcher kale chips skateboard actually. Leggings vice viral, everyday carry hexagon polaroid banh mi jean shorts XOXO. Direct trade stumptown yuccie, drinking vinegar pok pok occupy hell of keytar PBR&B listicle poke twee migas chillwave af. Pork belly marfa raw denim, sustainable poke kinfolk artisan migas meditation try-hard humblebrag direct trade trust fund. Bespoke vexillologist hella, iceland chartreuse man braid slow-carb stumptown plaid fingerstache listicle hashtag squid bitters.
 

@@ -1,5 +1,5 @@
 ---
-title: Our Second Post
+title: Now leave before I am forced to taunt you
 slug: /second-post
 date: '2018-11-07'
 posttype: post
