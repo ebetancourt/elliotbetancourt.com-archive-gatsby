@@ -3,7 +3,7 @@ id: 423
 title: Elements of Javascript Style
 date: 2008-04-29T08:04:54+00:00
 author: Elliot Betancourt
-layout: post
+posttype: blogpost
 guid: http://www.elliotbetancourt.com/?p=15
 slug: /writing-javascript/
 onswipe_thumb:

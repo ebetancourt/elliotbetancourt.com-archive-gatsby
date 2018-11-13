@@ -3,7 +3,7 @@ id: 499
 title: Time Management By XKCD
 date: 2011-03-21T17:54:16+00:00
 author: Elliot Betancourt
-layout: post
+posttype: blogpost
 guid: http://elliotbetancourt.knightlabs.co/2011/03/time-management-by-xkcd/
 slug: /time-management-by-xkcd/
 onswipe_thumb:

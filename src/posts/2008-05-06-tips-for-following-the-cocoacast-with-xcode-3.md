@@ -3,7 +3,7 @@ id: 16
 title: Tips for Following the CocoaCast with XCode 3
 date: 2008-05-06T20:47:07+00:00
 author: Elliot Betancourt
-layout: post
+posttype: blogpost
 guid: http://www.elliotbetancourt.com/?p=16
 slug: /tips-for-following-the-cocoacast-with-xcode-3/
 onswipe_thumb:

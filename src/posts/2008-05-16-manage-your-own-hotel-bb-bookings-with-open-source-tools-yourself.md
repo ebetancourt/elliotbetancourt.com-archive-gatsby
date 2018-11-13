@@ -3,7 +3,7 @@ id: 20
 title: 'Manage your own Hotel / B&#038;B Bookings with Open Source tools yourself!'
 date: 2008-05-16T13:43:35+00:00
 author: Elliot Betancourt
-layout: post
+posttype: blogpost
 guid: http://www.elliotbetancourt.com/?p=20
 slug: /manage-your-own-hotel-bb-bookings-with-open-source-tools-yourself/
 onswipe_thumb:

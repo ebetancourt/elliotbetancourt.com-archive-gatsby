@@ -3,7 +3,7 @@ id: 23
 title: A great post by Scott H Young
 date: 2008-05-22T10:32:20+00:00
 author: Elliot Betancourt
-layout: post
+posttype: blogpost
 guid: http://www.elliotbetancourt.com/?p=23
 slug: /a-great-post-by-scott-h-young/
 onswipe_thumb:

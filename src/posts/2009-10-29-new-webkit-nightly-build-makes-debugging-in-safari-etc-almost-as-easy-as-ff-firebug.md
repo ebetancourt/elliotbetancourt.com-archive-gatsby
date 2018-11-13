@@ -3,7 +3,7 @@ id: 44
 title: 'New Webkit Nightly Build Makes Debugging In Safari, etc. Almost as Easy as FF &#038; Firebug'
 date: 2009-10-29T09:17:44+00:00
 author: Elliot Betancourt
-layout: post
+posttype: blogpost
 guid: http://www.elliotbetancourt.com/2009/10/new-webkit-nightly-build-makes-debugging-in-safari-etc-almost-as-easy-as-ff-firebug/
 slug: /new-webkit-nightly-build-makes-debugging-in-safari-etc-almost-as-easy-as-ff-firebug/
 onswipe_thumb:

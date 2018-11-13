@@ -3,7 +3,7 @@ id: 24
 title: 'Experiments in Social Networking: Flock'
 date: 2008-05-22T13:54:43+00:00
 author: Elliot Betancourt
-layout: post
+posttype: blogpost
 guid: http://www.elliotbetancourt.com/?p=24
 slug: /experiments-in-social-networking-flock/
 onswipe_thumb:

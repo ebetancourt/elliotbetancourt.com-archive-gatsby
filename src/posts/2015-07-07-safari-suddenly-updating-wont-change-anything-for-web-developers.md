@@ -3,7 +3,7 @@ id: 596
 title: "Safari Suddenly Updating Won't Change Anything for Web Developers"
 date: 2015-07-07T12:36:34+00:00
 author: Elliot Betancourt
-layout: post
+posttype: blogpost
 guid: http://elliotbetancourt.knightlabs.co/?p=596
 slug: /safari-suddenly-updating-wont-change-anything-for-web-developers/
 ---

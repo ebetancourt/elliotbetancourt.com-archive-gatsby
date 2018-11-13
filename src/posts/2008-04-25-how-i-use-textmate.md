@@ -3,7 +3,7 @@ id: 422
 title: How I Use TextMate
 date: 2008-04-25T12:12:23+00:00
 author: Elliot Betancourt
-layout: post
+posttype: blogpost
 guid: http://www.elliotbetancourt.com/?p=10
 slug: /how-i-use-textmate/
 onswipe_thumb:

@@ -3,7 +3,7 @@ id: 19
 title: 'Just Discovered the &#8220;Blog Design&#8221; Blog&#8230;sorta like a meta-blog'
 date: 2008-05-16T12:04:51+00:00
 author: Elliot Betancourt
-layout: post
+posttype: blogpost
 guid: http://www.elliotbetancourt.com/?p=19
 slug: /just-discovered-the-blog-design-blogsorta-like-a-meta-blog/
 onswipe_thumb:

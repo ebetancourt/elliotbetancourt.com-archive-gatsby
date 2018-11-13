@@ -4,7 +4,7 @@ title: Building a Posterous Clone with Node.js
 date: 2014-01-24T12:58:27+00:00
 author: Elliot Betancourt
 excerpt: This is the first article in a series where we will develop a Node JS project from beginning to end. A quick introduction to what we are going to do, and everything that we are going to touch on in this project. Learning how to build a real product using Node.js, MongoDB, Express, Ember.js, and Gearman.
-layout: post
+posttype: blogpost
 guid: http://elliotbetancourt.knightlabs.co/?p=568
 slug: /building-a-posterous-clone-with-node-js/
 categories:

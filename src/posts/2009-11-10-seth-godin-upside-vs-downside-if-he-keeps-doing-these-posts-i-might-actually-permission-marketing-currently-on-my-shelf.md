@@ -3,7 +3,7 @@ id: 48
 title: 'Seth Godin: Upside vs. downside. If he keeps doing these posts, I might actually Permission Marketing (currently on my shelf)'
 date: 2009-11-10T21:11:37+00:00
 author: Elliot Betancourt
-layout: post
+posttype: blogpost
 guid: http://www.elliotbetancourt.com/2009/11/seth-godin-upside-vs-downside-if-he-keeps-doing-these-posts-i-might-actually-permission-marketing-currently-on-my-shelf/
 slug: /seth-godin-upside-vs-downside-if-he-keeps-doing-these-posts-i-might-actually-permission-marketing-currently-on-my-shelf/
 onswipe_thumb:

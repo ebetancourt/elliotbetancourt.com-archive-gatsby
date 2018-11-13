@@ -3,7 +3,7 @@ id: 424
 title: 'WordPress&#8217; New &#8220;Press It&#8221; and iPhone App are Great for Mo-Blogging'
 date: 2008-07-22T06:22:29+00:00
 author: Elliot Betancourt
-layout: post
+posttype: blogpost
 guid: http://www.elliotbetancourt.com/?p=28
 slug: /wordpress-new-press-it-and-iphone-app-are-great-for-mo-blogging/
 onswipe_thumb:

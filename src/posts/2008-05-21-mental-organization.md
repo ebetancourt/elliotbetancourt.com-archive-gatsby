@@ -3,7 +3,7 @@ id: 22
 title: Mental Organization
 date: 2008-05-21T10:53:45+00:00
 author: Elliot Betancourt
-layout: post
+posttype: blogpost
 guid: http://www.elliotbetancourt.com/?p=22
 slug: /mental-organization/
 onswipe_thumb:

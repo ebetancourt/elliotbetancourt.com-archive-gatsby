@@ -3,7 +3,7 @@ id: 18
 title: Getting Things Done in a Nutshell
 date: 2008-05-14T12:08:32+00:00
 author: Elliot Betancourt
-layout: post
+posttype: blogpost
 guid: http://www.elliotbetancourt.com/?p=18
 slug: /getting-things-done-in-a-nutshell/
 onswipe_thumb:
