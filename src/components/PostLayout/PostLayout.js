@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
 import { graphql } from 'gatsby';
+
+import PostTitleByline from "../PostTitleByline";
 import Layout from '../Layout';
 
 export default class PostLayout extends Component {
@@ -9,7 +11,7 @@ export default class PostLayout extends Component {
 
       return (
         <Layout location={location}>
-            <h1 dangerouslySetInnerHTML={{__html: markdownRemark.frontmatter.title}} />
+            <PostTitleByline post={markdownRemark} />
             <div dangerouslySetInnerHTML={{
                 __html: markdownRemark.html,
             }}/>
@@ -29,7 +31,7 @@ export const query = graphql`
         frontmatter {
             slug
             posttype
-            date
+            date(formatString: "MMMM DD, YYYY")
             title
         }
         html

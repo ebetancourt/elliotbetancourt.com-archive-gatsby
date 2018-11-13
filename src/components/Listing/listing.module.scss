@@ -1,6 +1,5 @@
 .post {
-    padding: 1rem 225px;
-    border-radius: 4px;
+    padding: 1rem 0;
     margin-bottom: 10rem;
     position: relative;
 
@@ -8,35 +7,6 @@
         color: black;
         text-decoration: none;
     }
-
-    h2 {
-        margin-bottom: 0;
-        text-transform: uppercase;
-        font-size: 2.5rem;
-    }
-
-    p {
-        font-size: 1rem;
-    }
-
-    .postMeta {
-        font-size: .8125rem;
-        color: #888888;
-    }
-}
-
-.postLetter {
-    font-size: 16rem;
-    line-height: 1.2;
-    color: rgba(0,0,0,.07);
-    z-index: 1;
-    position: absolute;
-    -webkit-transform: translate(-50%, -73%);
-    -ms-transform: translate(-50%, -73%);
-    transform: translate(-50%, -73%);
-    user-select: none;
-    pointer-events: none;
-    text-transform: uppercase;
 }
 
 a.readMoreLink {
