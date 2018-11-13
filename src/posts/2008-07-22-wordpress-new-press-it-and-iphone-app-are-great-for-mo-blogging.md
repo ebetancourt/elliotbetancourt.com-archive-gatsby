@@ -5,7 +5,7 @@ date: 2008-07-22T06:22:29+00:00
 author: Elliot Betancourt
 layout: post
 guid: http://www.elliotbetancourt.com/?p=28
-permalink: /wordpress-new-press-it-and-iphone-app-are-great-for-mo-blogging/
+slug: /wordpress-new-press-it-and-iphone-app-are-great-for-mo-blogging/
 onswipe_thumb:
   - SKIP
 categories:

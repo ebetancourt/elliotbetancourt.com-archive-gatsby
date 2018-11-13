@@ -5,7 +5,7 @@ date: 2011-03-21T17:54:16+00:00
 author: Elliot Betancourt
 layout: post
 guid: http://elliotbetancourt.knightlabs.co/2011/03/time-management-by-xkcd/
-permalink: /time-management-by-xkcd/
+slug: /time-management-by-xkcd/
 onswipe_thumb:
   - http://posterous.com/getfile/files.posterous.com/elliotbetancourt/JHteBvmezJumhkevDJhcgdcstGdCqrGiuIjxCBdkwgswodbpIaDAoFmFfECH/media_httpimgsxkcdcom_fsyiz.png.scaled500.png
 image: /wp-content/uploads/2011/03/time_management-280x120.png

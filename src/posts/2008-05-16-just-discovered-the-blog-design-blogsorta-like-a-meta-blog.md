@@ -5,7 +5,7 @@ date: 2008-05-16T12:04:51+00:00
 author: Elliot Betancourt
 layout: post
 guid: http://www.elliotbetancourt.com/?p=19
-permalink: /just-discovered-the-blog-design-blogsorta-like-a-meta-blog/
+slug: /just-discovered-the-blog-design-blogsorta-like-a-meta-blog/
 onswipe_thumb:
   - SKIP
 categories:

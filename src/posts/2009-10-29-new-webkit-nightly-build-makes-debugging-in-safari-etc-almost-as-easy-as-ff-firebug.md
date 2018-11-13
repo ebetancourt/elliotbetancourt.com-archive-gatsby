@@ -5,7 +5,7 @@ date: 2009-10-29T09:17:44+00:00
 author: Elliot Betancourt
 layout: post
 guid: http://www.elliotbetancourt.com/2009/10/new-webkit-nightly-build-makes-debugging-in-safari-etc-almost-as-easy-as-ff-firebug/
-permalink: /new-webkit-nightly-build-makes-debugging-in-safari-etc-almost-as-easy-as-ff-firebug/
+slug: /new-webkit-nightly-build-makes-debugging-in-safari-etc-almost-as-easy-as-ff-firebug/
 onswipe_thumb:
   - http://posterous.com/getfile/files.posterous.com/elliotbetancourt/UIOpHUPCtNyWiLHmVVprqr8zXC7MwkfNFbKyn2Kp8O9WhW0PWE1WOiFRFkwI/Screenshot_2009-10-29_at_11.36.png.scaled.500.jpg
 categories:

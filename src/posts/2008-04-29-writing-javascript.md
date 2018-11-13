@@ -5,7 +5,7 @@ date: 2008-04-29T08:04:54+00:00
 author: Elliot Betancourt
 layout: post
 guid: http://www.elliotbetancourt.com/?p=15
-permalink: /writing-javascript/
+slug: /writing-javascript/
 onswipe_thumb:
   - SKIP
 categories:

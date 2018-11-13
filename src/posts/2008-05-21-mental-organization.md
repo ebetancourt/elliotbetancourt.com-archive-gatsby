@@ -5,7 +5,7 @@ date: 2008-05-21T10:53:45+00:00
 author: Elliot Betancourt
 layout: post
 guid: http://www.elliotbetancourt.com/?p=22
-permalink: /mental-organization/
+slug: /mental-organization/
 onswipe_thumb:
   - SKIP
 categories:

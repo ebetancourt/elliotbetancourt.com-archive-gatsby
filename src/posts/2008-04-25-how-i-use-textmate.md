@@ -5,7 +5,7 @@ date: 2008-04-25T12:12:23+00:00
 author: Elliot Betancourt
 layout: post
 guid: http://www.elliotbetancourt.com/?p=10
-permalink: /how-i-use-textmate/
+slug: /how-i-use-textmate/
 onswipe_thumb:
   - http://www.elliotbetancourt.com/wp-content/uploads/2008/04/picture-11.jpg
 categories:

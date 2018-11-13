@@ -5,7 +5,7 @@ date: 2008-05-22T10:32:20+00:00
 author: Elliot Betancourt
 layout: post
 guid: http://www.elliotbetancourt.com/?p=23
-permalink: /a-great-post-by-scott-h-young/
+slug: /a-great-post-by-scott-h-young/
 onswipe_thumb:
   - SKIP
 categories:

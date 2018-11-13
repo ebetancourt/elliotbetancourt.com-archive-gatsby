@@ -5,7 +5,7 @@ date: 2008-05-22T13:54:43+00:00
 author: Elliot Betancourt
 layout: post
 guid: http://www.elliotbetancourt.com/?p=24
-permalink: /experiments-in-social-networking-flock/
+slug: /experiments-in-social-networking-flock/
 onswipe_thumb:
   - SKIP
 categories:

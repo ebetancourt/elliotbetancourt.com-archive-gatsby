@@ -5,7 +5,7 @@ date: 2012-08-24T16:25:31+00:00
 author: Elliot Betancourt
 layout: post
 guid: http://www.elliotbetancourt.com/?p=520
-permalink: /so-which-is-the-real-headline/
+slug: /so-which-is-the-real-headline/
 my-journey_post_single_image:
   - 'false'
 my-journey_post_single_comments:

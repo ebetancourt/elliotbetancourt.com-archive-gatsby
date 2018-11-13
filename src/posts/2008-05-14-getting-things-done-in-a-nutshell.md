@@ -5,7 +5,7 @@ date: 2008-05-14T12:08:32+00:00
 author: Elliot Betancourt
 layout: post
 guid: http://www.elliotbetancourt.com/?p=18
-permalink: /getting-things-done-in-a-nutshell/
+slug: /getting-things-done-in-a-nutshell/
 onswipe_thumb:
   - SKIP
 categories:

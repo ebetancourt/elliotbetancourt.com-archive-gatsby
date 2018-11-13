@@ -5,7 +5,7 @@ date: 2008-05-06T20:47:07+00:00
 author: Elliot Betancourt
 layout: post
 guid: http://www.elliotbetancourt.com/?p=16
-permalink: /tips-for-following-the-cocoacast-with-xcode-3/
+slug: /tips-for-following-the-cocoacast-with-xcode-3/
 onswipe_thumb:
   - SKIP
 categories:

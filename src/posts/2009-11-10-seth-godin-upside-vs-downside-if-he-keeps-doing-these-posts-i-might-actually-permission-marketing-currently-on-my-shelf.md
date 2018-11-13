@@ -5,7 +5,7 @@ date: 2009-11-10T21:11:37+00:00
 author: Elliot Betancourt
 layout: post
 guid: http://www.elliotbetancourt.com/2009/11/seth-godin-upside-vs-downside-if-he-keeps-doing-these-posts-i-might-actually-permission-marketing-currently-on-my-shelf/
-permalink: /seth-godin-upside-vs-downside-if-he-keeps-doing-these-posts-i-might-actually-permission-marketing-currently-on-my-shelf/
+slug: /seth-godin-upside-vs-downside-if-he-keeps-doing-these-posts-i-might-actually-permission-marketing-currently-on-my-shelf/
 onswipe_thumb:
   - SKIP
 categories:

@@ -5,7 +5,7 @@ date: 2008-05-16T13:43:35+00:00
 author: Elliot Betancourt
 layout: post
 guid: http://www.elliotbetancourt.com/?p=20
-permalink: /manage-your-own-hotel-bb-bookings-with-open-source-tools-yourself/
+slug: /manage-your-own-hotel-bb-bookings-with-open-source-tools-yourself/
 onswipe_thumb:
   - SKIP
 categories:
