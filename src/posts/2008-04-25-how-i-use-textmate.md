@@ -6,6 +6,7 @@ author: Elliot Betancourt
 posttype: blogpost
 guid: http://www.elliotbetancourt.com/?p=10
 slug: /how-i-use-textmate/
+draft: false
 onswipe_thumb:
   - http://www.elliotbetancourt.com/wp-content/uploads/2008/04/picture-11.jpg
 categories:
