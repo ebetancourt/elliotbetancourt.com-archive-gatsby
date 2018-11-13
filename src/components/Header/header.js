@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-import logo from '../images/logo.svg';
 import styles from './header.module.scss';
 
 const Header = ({ siteTitle }) => (

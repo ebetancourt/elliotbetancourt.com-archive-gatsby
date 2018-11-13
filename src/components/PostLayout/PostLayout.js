@@ -1,15 +1,15 @@
 import React, { Component } from 'react'
 import { graphql } from 'gatsby';
-import Layout from './layout';
+import Layout from '../Layout';
 
-export default class postLayout extends Component {
+export default class PostLayout extends Component {
   render() {
       const { markdownRemark } = this.props.data;
       const { location } = this.props
 
       return (
         <Layout location={location}>
-            <h1>{markdownRemark.frontmatter.title}</h1>
+            <h1 dangerouslySetInnerHTML={{__html: markdownRemark.frontmatter.title}} />
             <div dangerouslySetInnerHTML={{
                 __html: markdownRemark.html,
             }}/>
