@@ -28,11 +28,14 @@ $navHeight: 100px;
     padding-top: 160px;
     box-shadow: 0 30px 50px 0 rgba(1,1,1,.15);
     background: #FFF;
-    // add query selector at 610 width for 100% width and no shadow
-    @media (max-width: 1000px) {
+}
+@media (max-width: 1000px) {
+    .mainLayout {
         padding: 0px 85px;
     }
-    @media (max-width: 610px) {
+}
+@media (max-width: 610px) {
+    .mainLayout {
         padding: 0px 15px;
         width: 100%;
         box-shadow: none;
