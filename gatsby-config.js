@@ -2,7 +2,8 @@ module.exports = {
   siteMetadata: {
     title: 'Elliot Betancourt',
     siteUrl: 'https://elliotbetancourt.netlify.com',
-    description: 'The home on the web of Elliot Betancourt, freelance web developer',
+    description:
+      'The home on the web of Elliot Betancourt, freelance web developer',
     tagLine: 'Act without doing; work without effort',
   },
   plugins: [
@@ -13,8 +14,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-typography`,
       options: {
-        pathToConfigModule: `src/utils/typography.js`
-      }
+        pathToConfigModule: `src/utils/typography.js`,
+      },
     },
     {
       resolve: `gatsby-source-filesystem`,
@@ -28,7 +29,7 @@ module.exports = {
       options: {
         path: `${__dirname}/src/posts`,
         name: 'posts',
-      }
+      },
     },
     {
       resolve: `gatsby-plugin-manifest`,
@@ -43,7 +44,22 @@ module.exports = {
       },
     },
     'gatsby-plugin-offline',
-    'gatsby-transformer-remark',
+    {
+        resolve: `gatsby-transformer-remark`,
+        options: {
+        plugins: [
+          'gatsby-remark-copy-linked-files',
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 900,
+              quality: 90,
+              withWebp: true,
+            },
+          },
+        ],
+        },
+      },
     {
       resolve: `gatsby-plugin-feed`,
       options: {
@@ -65,9 +81,15 @@ module.exports = {
               return allMarkdownRemark.edges.map(edge => {
                 return Object.assign({}, edge.node.frontmatter, {
                   description: edge.node.excerpt,
-                  url: site.siteMetadata.siteUrl + "/posts" + edge.node.frontmatter.slug,
-                  guid: site.siteMetadata.siteUrl + "/posts" + edge.node.frontmatter.slug,
-                  custom_elements: [{ "content:encoded": edge.node.html }],
+                  url:
+                    site.siteMetadata.siteUrl +
+                    '/posts' +
+                    edge.node.frontmatter.slug,
+                  guid:
+                    site.siteMetadata.siteUrl +
+                    '/posts' +
+                    edge.node.frontmatter.slug,
+                  custom_elements: [{ 'content:encoded': edge.node.html }],
                 })
               })
             },
@@ -92,8 +114,8 @@ module.exports = {
                 }
               }
             `,
-            output: "/rss.xml",
-            title: "Elliot Betancourt RSS Feed",
+            output: '/rss.xml',
+            title: 'Elliot Betancourt RSS Feed',
           },
         ],
       },
