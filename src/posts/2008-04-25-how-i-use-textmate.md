@@ -19,6 +19,7 @@ tags:
   - Web Development
 format: aside
 ---
+
 All Programmers swear by their editor. Its like a religion. You only need to think about the ongoing joke of emacs vs vi in the Unix world to get a sense of the fact that its not something we take lightly.
 
 One very popular choice of editor on Mac is [Macromates&#8217; TextMate](http://macromates.com/). Just like the two iconic Unix editors, the power of TextMate lies not within the application itself, although, it IS an incredible application, it fits in just seemlessly with the rest of the User Experience in OS X, and it integrates pretty nicely with popular Mac FTP client [Transmit](http://www.panic.com/transmit/) . No, the REAL power of TextMate lies in its plugin architecture. These plugins are called &#8220;Bundles&#8221;. And TextMate comes with a million of these right out of the box. This leads to people having different methodologies for how they like to use TextMate.
@@ -27,6 +28,7 @@ My career is in Web Development, so that is going to be the workflow I describe 
 
 I typically program in a very web-centric list of languages: PHP, Javascript, HTML, CSS, XML, SQL. The syntax highlighting for all of these is very good, its even smart enough to notice if I have SQL being set into a PHP variable and highlight that string appropriately. For example:
 
+![Picture 6](wp-import/picture-6.jpg)
 <img src="https://i2.wp.com/www.elliotbetancourt.com/wp-content/uploads/2008/04/picture-6.jpg?resize=480%2C16" width="480" height="16" alt="Picture 6.png" data-recalc-dims="1" />
 
 I would like drop-down autocompletion like what you see in alot of bloated IDE&#8217;s, but really, I know all these languages so well, that would just be indulging a lazy typist. For Javascript, [YUI](http://developer.yahoo.com/yui/) is typically my framework of choice, I have installed [a Bundle for it](http://techfoolery.com/archives/2006/10/29/1406/) that offers parameter help, tons of macros / code snippets whatever you want to call them, and highlighting of built-in YUI classes / methods.
@@ -67,15 +69,15 @@ if you&#8217;re too lazy to click through to the post:
 
 Go to Preferences â†’ Advanced â†’ Folder References and change the Folder Pattern from:
 
-!.\*/(.[^/]\*|CVS|_darcs|{arch}|blib|.\*~.nib|.\*.(framework|app|pbproj|pbxproj|xcode(proj)?|bundle))$
+!.\*/(.[^/]\*|CVS|\_darcs|{arch}|blib|.\*~.nib|.\*.(framework|app|pbproj|pbxproj|xcode(proj)?|bundle))$
 
 to:
 
-!.\*/(.[^/]\*|rails|CVS|_darcs|{arch}|blib|.\*~.nib|.\*.(framework|app|pbproj|pbxproj|xcode(proj)?|bundle))$
+!.\*/(.[^/]\*|rails|CVS|\_darcs|{arch}|blib|.\*~.nib|.\*.(framework|app|pbproj|pbxproj|xcode(proj)?|bundle))$
 
 the equivalent expression I use for YUI:
 
-!.\*/(.[^/]\*|yui|CVS|_darcs|{arch}|blib|.\*~.nib|.\*.(framework|app|pbproj|pbxproj|xcode(proj)?|bundle))$
+!.\*/(.[^/]\*|yui|CVS|\_darcs|{arch}|blib|.\*~.nib|.\*.(framework|app|pbproj|pbxproj|xcode(proj)?|bundle))$
 
 Your milage may vary, I put all the YUI modules in the /js/yui/&#8230; directory of my projects, so filtering for the yui folder works for me.
 
