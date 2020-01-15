@@ -28,7 +28,7 @@ My career is in Web Development, so that is going to be the workflow I describe 
 
 I typically program in a very web-centric list of languages: PHP, Javascript, HTML, CSS, XML, SQL. The syntax highlighting for all of these is very good, its even smart enough to notice if I have SQL being set into a PHP variable and highlight that string appropriately. For example:
 
-![Picture 6](wp-import/picture-6.jpg)
+![Picture 6](../images/wp-import/picture-6.jpg)
 <img src="https://i2.wp.com/www.elliotbetancourt.com/wp-content/uploads/2008/04/picture-6.jpg?resize=480%2C16" width="480" height="16" alt="Picture 6.png" data-recalc-dims="1" />
 
 I would like drop-down autocompletion like what you see in alot of bloated IDE&#8217;s, but really, I know all these languages so well, that would just be indulging a lazy typist. For Javascript, [YUI](http://developer.yahoo.com/yui/) is typically my framework of choice, I have installed [a Bundle for it](http://techfoolery.com/archives/2006/10/29/1406/) that offers parameter help, tons of macros / code snippets whatever you want to call them, and highlighting of built-in YUI classes / methods.
