@@ -1,5 +1,5 @@
 ---
-id: Post620
+id: 617
 title: A New Shortcut to Make Blogging on iPad a Little Easier
 date: 2020-01-27T15:11:21.449Z
 author: Elliot Betancourt
