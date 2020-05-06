@@ -15,4 +15,4 @@ But then you need to work more to pay for these items, you need a place to store
 
 Before we moved, we had tons of cool, themed items or get togethers. And how many times a year did we use them? If we used them 10 times a year, we got a lot of use out of them. This is why so many people look back fondly on their broke college years. Buying the Instagram version of your life wasn’t a viable option. Instead of buying the idea that you are the kind of person that does these things, you could just do them, or not.
 
-It’s called a **life**style for a reason. You need to live it. 
+If you need to spend and work longer to *look* like you are having fun, instead of just having fun, is it worth it? We should focus more on the **life** part of Lifestyle, and less on the **style** part of the idea.
