@@ -9,7 +9,7 @@
     "gatsby-plugin-feed": "^2.5.7",
     "gatsby-plugin-manifest": "^2.4.14",
     "gatsby-plugin-netlify": "^2.3.7",
-    "gatsby-plugin-netlify-cms": "^3.0.18",
+    "gatsby-plugin-netlify-cms": "^7.3.0",
     "gatsby-plugin-offline": "^2.2.10",
     "gatsby-plugin-react-helmet": "^3.3.6",
     "gatsby-plugin-sass": "^2.3.6",
