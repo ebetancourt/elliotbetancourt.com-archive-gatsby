@@ -19,7 +19,7 @@
     "gatsby-remark-copy-linked-files": "^2.3.7",
     "gatsby-remark-images": "^2.0.6",
     "gatsby-source-filesystem": "^2.3.14",
-    "gatsby-transformer-remark": "^2.8.19",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.5.7",
     "netlify-cms": "^2.10.51",
     "node-sass": "^4.14.1",
